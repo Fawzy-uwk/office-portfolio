@@ -4,11 +4,10 @@ const withBundleAnalyzer = bundleAnalyzer({ enabled: process.env.ANALYZE === 'tr
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output:"export",
-  swcMinify: true,
+  // output: 'standalone', ❌ comment this out temporarily
   images: {
     unoptimized: true,
-  }
+  },
 };
 
 export default withBundleAnalyzer(nextConfig);

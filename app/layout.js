@@ -1,6 +1,7 @@
 import { Amiri } from "next/font/google";
 import "./globals.css";
 
+
 import TransitionProvider from "./_Components/TransitionProvider";
 
 import ContactIcons from "./_Components/ContactIcons";
