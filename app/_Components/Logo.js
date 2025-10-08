@@ -9,7 +9,6 @@ function Logo() {
         src={logo}
         height={80}
         width={80} // ✅ Set explicit width to avoid layout shift
-        
         alt="Office Logo"
         priority // ✅ Load eagerly for better LCP
       />
