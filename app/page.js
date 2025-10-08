@@ -48,7 +48,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/30 backdrop-blur-md z-10 pointer-events-none" />
 
         {/* Content */}
-        <div className="relative z-20 flex items-center justify-center flex-col gap-4 h-full my-10 mt-20 xl:mt-10">
+        <div className="relative z-20 flex items-center justify-center flex-col gap-4 h-full my-10 mt-10 xl:mt-10 ">
           <HomeSlider />
         </div>
       </div>

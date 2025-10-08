@@ -30,7 +30,7 @@ function ResponsiveNavBar() {
       opacity: 0,
     },
     opened: {
-      x: 0,
+      x: 1,
       opacity: 1,
     },
   };

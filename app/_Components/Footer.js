@@ -40,7 +40,7 @@ function Footer() {
         <FaCopyright size={20} />
         <span className="font-semibold">{new Date().getFullYear()}</span>
         <span className="whitespace-nowrap">
-          {locale === "ar" ? "الحقوق محفوظة لمكتب أحمد عبدالقوي للمحاسبة" : "Copyright © Ahmed Abdelqawy Accounting Office"}
+          {locale === "ar" ? "مكتب أحمد عبدالقوي للمحاسبة ©" : " © Ahmed Abdelqawy Accounting Office"}
         </span>
       </MotionDiv>
     </footer>

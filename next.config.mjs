@@ -6,7 +6,6 @@ const nextConfig = {
   reactStrictMode: true,
   // output: 'standalone', ❌ comment this out temporarily
   images: {
-    unoptimized: true,
   },
 };
 

@@ -65,7 +65,7 @@ export default function PortfolioCarousel() {
 
   return (
     <div className="home-section h-full w-full">
-      <h2 className="font-amiri font-bold text-center mb-6 text-sky-100 text-4xl">
+      <h2 className="font-amiri font-bold text-center mb-6 text-sky-100 text-xl md:text-4xl">
         {locale === "ar" ? "نقدم خدمات محاسبية متميزة لنجاح أعمالك" : "We Offer Outstanding Accounting Services for Your Business Success"}
       </h2>
       <div className="container">
