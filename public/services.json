@@ -1,0 +1,140 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "bg": "from-pink-100 to-pink-400",
+      "titleAr": "المحاسبة القانونية",
+      "titleEn": "Legal Accounting",
+      "descriptionAr": {
+        "إعداد التقارير المالية": "إعداد تقارير مالية قانونية معتمدة وفق المعايير المحلية والدولية",
+        "المراجعة الداخلية": "فحص وتقييم الأنظمة المالية لضمان الامتثال القانوني",
+        "تحليل البيانات المالية": "تقديم تحليلات مالية متعمقة لدعم القرارات القانونية"
+      },
+      "descriptionEn": {
+        "Preparation of Financial Reports": "Preparation of legally certified financial reports according to local and international standards",
+        "Internal Auditing": "Examination and evaluation of financial systems to ensure legal compliance",
+        "Financial Data Analysis": "Providing in-depth financial analysis to support legal decisions"
+      },
+      "image": "/services-1.jpg"
+    },
+    {
+      "id": 2,
+      "bg": "from-blue-100 to-blue-400",
+      "titleAr": "المراجعة القانونية",
+      "titleEn": "Legal Auditing",
+      "descriptionAr": {
+        "تدقيق السجلات المالية": "فحص دقيق للسجلات المالية للكشف عن المخالفات القانونية",
+        "مراجعة العقود المالية": "تحليل العقود المالية لضمان توافقها مع التشريعات",
+        "فحص الامتثال الضريبي": "تقييم مدى التزام المنشأة بالأنظمة الضريبية"
+      },
+      "descriptionEn": {
+        "Financial Records Auditing": "Thorough examination of financial records to detect legal violations",
+        "Financial Contracts Review": "Analysis of financial contracts to ensure compliance with regulations",
+        "Tax Compliance Check": "Evaluation of the entity’s adherence to tax regulations"
+      },
+      "image": "/services-2.jpg"
+    },
+    {
+      "id": 3,
+      "bg": "from-green-100 to-green-400",
+      "titleAr": "الاستشارات الضريبية القانونية",
+      "titleEn": "Legal Tax Consulting",
+      "descriptionAr": {
+        "التخطيط الضريبي": "تصميم استراتيجيات ضريبية قانونية لتقليل الالتزامات",
+        "حل المنازعات الضريبية": "تمثيل العملاء في النزاعات مع السلطات الضريبية",
+        "الاستشارات الضريبية الدولية": "تقديم حلول ضريبية للعمليات عبر الحدود"
+      },
+      "descriptionEn": {
+        "Tax Planning": "Designing legal tax strategies to minimize obligations",
+        "Tax Dispute Resolution": "Representing clients in disputes with tax authorities",
+        "International Tax Consulting": "Providing tax solutions for cross-border operations"
+      },
+      "image": "/services-7.jpg"
+    },
+    {
+      "id": 4,
+      "bg": "from-yellow-100 to-yellow-400",
+      "titleAr": "التقاضي المالي",
+      "titleEn": "Financial Litigation",
+      "descriptionAr": {
+        "المنازعات المالية": "تمثيل العملاء في القضايا المالية أمام المحاكم",
+        "قضايا الاحتيال المالي": "التعامل مع قضايا الغش والاختلاس المالي",
+        "منازعات العقود التجارية": "حل النزاعات الناشئة عن العقود المالية والتجارية"
+      },
+      "descriptionEn": {
+        "Financial Disputes": "Representing clients in financial cases before courts",
+        "Financial Fraud Cases": "Handling cases of fraud and embezzlement",
+        "Commercial Contract Disputes": "Resolving disputes arising from financial and commercial contracts"
+      },
+      "image": "/services-6.jpg"
+    },
+    {
+      "id": 5,
+      "bg": "from-purple-100 to-purple-400",
+      "titleAr": "تأسيس الشركات",
+      "titleEn": "Company Formation",
+      "descriptionAr": {
+        "الإعداد القانوني": "إعداد المستندات القانونية اللازمة للتأسيس",
+        "الهياكل التنظيمية": "تصميم الهياكل القانونية والمالية للشركات",
+        "الامتثال التشريعي": "ضمان توافق الشركة مع جميع المتطلبات القانونية"
+      },
+      "descriptionEn": {
+        "Legal Preparation": "Preparing the necessary legal documents for formation",
+        "Organizational Structures": "Designing legal and financial structures for companies",
+        "Legislative Compliance": "Ensuring the company complies with all legal requirements"
+      },
+      "image": "/services-5.jpg"
+    },
+    {
+      "id": 6,
+      "bg": "from-indigo-400 to-indigo-600",
+      "titleAr": "التقارير المالية للقضايا",
+      "titleEn": "Financial Reports for Cases",
+      "descriptionAr": {
+        "تقارير الخبرة المالية": "إعداد تقارير مالية معتمدة كدليل في المحاكم",
+        "تحليل الأضرار المالية": "تقدير التعويضات المالية في القضايا القانونية",
+        "شهادات الشهود الخبراء": "تقديم الشهادات المالية أمام المحاكم كشهود خبراء"
+      },
+      "descriptionEn": {
+        "Financial Expert Reports": "Preparing certified financial reports as evidence in courts",
+        "Financial Damage Analysis": "Estimating financial compensations in legal cases",
+        "Expert Witness Testimony": "Providing financial testimony in courts as expert witnesses"
+      },
+      "image": "/services-4.jpg"
+    },
+    {
+      "id": 7,
+      "bg": "from-red-400 to-red-600",
+      "titleAr": "التسويات القضائية",
+      "titleEn": "Judicial Settlements",
+      "descriptionAr": {
+        "المفاوضات التسوية": "إجراء مفاوضات لتسوية المنازعات خارج المحاكم",
+        "صياغة اتفاقيات التسوية": "إعداد وثائق التسوية المالية والقانونية",
+        "تنفيذ الاتفاقيات": "متابعة تنفيذ بنود اتفاقيات التسوية"
+      },
+      "descriptionEn": {
+        "Settlement Negotiations": "Conducting negotiations to settle disputes outside courts",
+        "Drafting Settlement Agreements": "Preparing financial and legal settlement documents",
+        "Agreement Implementation": "Monitoring the enforcement of settlement terms"
+      },
+      "image": "/services-4.jpg"
+    },
+    {
+      "id": 8,
+      "bg": "from-teal-400 to-teal-600",
+      "titleAr": "الاستشارات المالية للقضايا",
+      "titleEn": "Financial Consulting for Cases",
+      "descriptionAr": {
+        "تقييم الأضرار": "تقدير القيمة المالية للخسائر في القضايا القانونية",
+        "تحليل الجوانب المالية": "دراسة الجوانب المالية في النزاعات القانونية",
+        "استشارات التعويضات": "تقديم استشارات لتحديد التعويضات المناسبة"
+      },
+      "descriptionEn": {
+        "Damage Assessment": "Estimating the financial value of losses in legal cases",
+        "Financial Aspects Analysis": "Studying financial aspects in legal disputes",
+        "Compensation Consulting": "Providing advice to determine appropriate compensations"
+      },
+      "image": "/services-3.jpg"
+    }
+  ]
+}
